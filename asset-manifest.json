@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/interior-design-template/static/css/main.f7f91545.css",
+    "main.js": "/interior-design-template/static/js/main.c98f585f.js",
+    "static/media/stock4.jpeg": "/interior-design-template/static/media/stock4.095a442f3d4ee327a91c.jpeg",
+    "static/media/team1.jpeg": "/interior-design-template/static/media/team1.54fa03d92e6860f72a35.jpeg",
+    "static/media/room3.jpeg": "/interior-design-template/static/media/room3.9bbd111f1be1b5dcb13e.jpeg",
+    "static/media/stock8.jpeg": "/interior-design-template/static/media/stock8.2ed7e39c328a513b1fb2.jpeg",
+    "static/media/stock7.jpeg": "/interior-design-template/static/media/stock7.b6846ff1feabc337ad62.jpeg",
+    "static/media/stock1.jpeg": "/interior-design-template/static/media/stock1.e8039183e4e450710229.jpeg",
+    "static/media/room1.jpeg": "/interior-design-template/static/media/room1.6c04b103c908283537ec.jpeg",
+    "static/media/room2.jpeg": "/interior-design-template/static/media/room2.85dd471f51018e7c6b55.jpeg",
+    "static/media/stock3.jpeg": "/interior-design-template/static/media/stock3.55566240e05f78fb0eda.jpeg",
+    "static/media/stock6.jpeg": "/interior-design-template/static/media/stock6.d1a3c8d3c52045c06aad.jpeg",
+    "static/media/stock2.jpeg": "/interior-design-template/static/media/stock2.80b3b684b3519d7695a1.jpeg",
+    "static/media/bootstrap-icons.woff?": "/interior-design-template/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/interior-design-template/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/interior-design-template/index.html",
+    "main.f7f91545.css.map": "/interior-design-template/static/css/main.f7f91545.css.map",
+    "main.c98f585f.js.map": "/interior-design-template/static/js/main.c98f585f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f91545.css",
+    "static/js/main.c98f585f.js"
+  ]
+}
