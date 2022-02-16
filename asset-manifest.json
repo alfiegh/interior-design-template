@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/interior-design-template/static/css/main.f7f91545.css",
-    "main.js": "/interior-design-template/static/js/main.c98f585f.js",
+    "main.js": "/interior-design-template/static/js/main.822f04ac.js",
     "static/media/stock4.jpeg": "/interior-design-template/static/media/stock4.095a442f3d4ee327a91c.jpeg",
     "static/media/team1.jpeg": "/interior-design-template/static/media/team1.54fa03d92e6860f72a35.jpeg",
     "static/media/room3.jpeg": "/interior-design-template/static/media/room3.9bbd111f1be1b5dcb13e.jpeg",
@@ -17,10 +17,10 @@
     "static/media/bootstrap-icons.woff2?": "/interior-design-template/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/interior-design-template/index.html",
     "main.f7f91545.css.map": "/interior-design-template/static/css/main.f7f91545.css.map",
-    "main.c98f585f.js.map": "/interior-design-template/static/js/main.c98f585f.js.map"
+    "main.822f04ac.js.map": "/interior-design-template/static/js/main.822f04ac.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f91545.css",
-    "static/js/main.c98f585f.js"
+    "static/js/main.822f04ac.js"
   ]
 }
