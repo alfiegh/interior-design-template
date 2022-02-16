@@ -1,4 +1,4 @@
-import stock6 from '../images/stock6.jpg';
+import stock6 from '../images/stock6.jpeg';
 import { ArrowRightOutlined } from '@ant-design/icons';
 
 const FullServiceParallax = () => {

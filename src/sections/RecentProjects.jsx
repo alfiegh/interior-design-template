@@ -1,4 +1,4 @@
-import stock1 from '../images/stock1.jpg';
+import stock1 from '../images/stock1.jpeg';
 import { ArrowRightOutlined } from '@ant-design/icons';
 import { toast } from 'react-toastify';
 import Zoom from 'react-reveal/Zoom';

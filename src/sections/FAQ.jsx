@@ -6,7 +6,7 @@ const Faqs = () => {
       <div className='text-center py-5'>
         {' '}
         <h1 className='text-uppercase fw-bold'>FAQs</h1>
-        <h2>Want to know more? Message us.</h2>
+        <h2>Want to know more? Contact us</h2>
       </div>
       <FaqForm
         question={'What is this page?'}

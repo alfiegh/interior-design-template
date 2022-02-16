@@ -1,7 +1,7 @@
 // import { useState } from 'react';
-import room1 from '../images/room1.jpg';
-import room2 from '../images/room2.jpg';
-import room3 from '../images/room3.jpg';
+import room1 from '../images/room1.jpeg';
+import room2 from '../images/room2.jpeg';
+import room3 from '../images/room3.jpeg';
 import { toast } from 'react-toastify';
 import PackageForm from '../components/PackageForm';
 import Fade from 'react-reveal/Fade';

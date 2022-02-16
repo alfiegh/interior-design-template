@@ -1,9 +1,8 @@
-import stock2 from '../images/stock2.jpg';
-import stock3 from '../images/stock3.jpg';
-import stock4 from '../images/stock4.jpg';
-
-import stock7 from '../images/stock7.jpg';
-import stock8 from '../images/stock8.jpg';
+import stock2 from '../images/stock2.jpeg';
+import stock3 from '../images/stock3.jpeg';
+import stock4 from '../images/stock4.jpeg';
+import stock7 from '../images/stock7.jpeg';
+import stock8 from '../images/stock8.jpeg';
 
 const CarouselProjects = () => {
   return (

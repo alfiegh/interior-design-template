@@ -6,7 +6,7 @@ import 'animate.css/animate.min.css';
 import { useState } from 'react';
 import Navbar from './components/Navbar';
 import Parallax from './sections/Parallax';
-import logo from './images/stock2.jpg';
+import logo from './images/stock2.jpeg';
 import HomeSteps from './sections/HomeSteps';
 import RecentProjects from './sections/RecentProjects';
 import FullServiceParallax from './sections/FullServiceParallax';
